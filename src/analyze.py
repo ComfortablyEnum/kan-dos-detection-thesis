@@ -3,8 +3,9 @@ DoS Detection using KAN - Enhanced Analysis Module
 This module implements comprehensive analysis of trained KAN models with advanced
 visualizations and detailed performance metrics.
 
-Author: Oleksandr Kuznetsov
-Date: February 2025
+Author: Samuele Scaffidi
+University: eCampus
+Year: 2026
 """
 
 import torch

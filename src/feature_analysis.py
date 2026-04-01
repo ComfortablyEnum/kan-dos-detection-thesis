@@ -2,8 +2,9 @@
 DoS Detection using KAN - Feature Analysis Module
 Analyzes feature importance and correlations for the trained model.
 
-Author: Oleksandr Kuznetsov
-Date: February 2025
+Author: Samuele Scaffidi
+University: eCampus
+Year: 2026
 """
 
 import torch

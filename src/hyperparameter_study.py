@@ -1,3 +1,13 @@
+"""
+DoS Detection using KAN - Hyperparameter Study Module
+Evaluates different KAN configurations for DoS attack detection
+and compares their performance on a reduced experimental dataset.
+
+Author: Samuele Scaffidi
+University: eCampus
+Year: 2026
+"""
+
 from pathlib import Path
 from datetime import datetime
 import time
