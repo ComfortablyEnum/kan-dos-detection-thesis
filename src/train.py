@@ -3,8 +3,9 @@ DoS Detection using KAN - Enhanced Training Module
 This module implements advanced data preparation and model training for DoS attack detection
 using Kolmogorov-Arnold Networks (KAN).
 
-Author: Oleksandr Kuznetsov
-Date: February 2025
+Author: Samuele Scaffidi
+University: eCampus
+Year: 2026
 """
 
 import torch
